@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there, I'm Tanvi Kotian 👋
 
-<!--
-**tanvikotian/tanvikotian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BCA Student passionate about technology and continuous learning.
 
-Here are some ideas to get you started:
+## 🌱 Currently Learning
+- Python
+- SQL
+- Power BI
+- Machine Learning
+- Data Structures and Algorithms (C++)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Projects
+- 📊 Retail Sales Analysis using SQL
+- 🏥 Healthcare Analytics Dashboard using Python and Power BI
+- 📈 Data Analysis Projects involving Excel, SQL, and Python
+
+## 🛠️ Skills
+- Programming: Python, C++, C
+- Database: SQL
+- Data Visualization: Power BI, Excel
+- Version Control: Git, GitHub
+
+## 🎯 Goals
+- Gain hands-on experience through internships.
+- Build projects that solve real-world problems.
+- Continuously improve my technical and analytical skills.
