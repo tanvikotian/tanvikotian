@@ -24,8 +24,6 @@
 - Build projects that solve real-world problems.
 - Continuously improve my technical and analytical skills.
 
-## 📊 GitHub Stats
+## 🔥 Contribution Streak
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tanvikotian&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tanvikotian&layout=compact)
+![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME)
