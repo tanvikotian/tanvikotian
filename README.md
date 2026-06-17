@@ -23,3 +23,9 @@
 - Gain hands-on experience through internships.
 - Build projects that solve real-world problems.
 - Continuously improve my technical and analytical skills.
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tanvikotian&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tanvikotian&layout=compact)
