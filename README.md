@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://github-profile-maker.vercel.app/api/capsule?type=wave&color=03024b&colorEnd=2047bc&height=200&section=header&text=Welcome+to+my+GitHub%21+%F0%9F%9A%80&fontSize=30&fontColor=ffffff&animation=waving&gradientDirection=horizontal&parallax=false&wavePosition=70&waveAmplitude=20&waveSpeed=20&flipWave=false&textAlignX=50&textAlignY=50&rtl=0&rtr=0&rbr=40&rbl=40" />
+</div>
+
 # Hi there, I'm Tanvi Kotian 👋
 
 🎓 BCA Student passionate about technology and continuous learning.
