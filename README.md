@@ -16,7 +16,6 @@
 ## 💻 Projects
 - 📊 Retail Sales Analysis using SQL
 - 🏥 Healthcare Analytics Dashboard using Python and Power BI
-- 📈 Data Analysis Projects involving Excel, SQL, and Python
 
 ## 🛠️ Skills
 - Programming: Python, C++, C
