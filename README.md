@@ -4,7 +4,9 @@
 
 # Hi there, I'm Tanvi Kotian 👋
 
-🎓 BCA Student passionate about technology and continuous learning.
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&height=30&lines=BCA%20Student%3BData%20Analytics%20Enthusiast%3BBuilding%20Projects%20%26%20Learning" alt="Typing SVG" />
+</div>
 
 ## 🌱 Currently Learning
 - Python
